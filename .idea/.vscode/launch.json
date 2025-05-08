@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Launch Main Class",
+        "request": "launch",
+        "mainClass": "FurnitureWorld",  // change if your main class is different
+        "classPaths": [
+          "out",
+          "lib/*"
+        ]
+      }
+    ]
+  }
+  

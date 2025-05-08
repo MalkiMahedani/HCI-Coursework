@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="atomic">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../downloads/jogamp-all-platforms/jogamp-all-platforms/jar/atomic" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../downloads/jogamp-all-platforms/jogamp-all-platforms/jar/atomic" recursive="false" />
+  </library>
+</component>
